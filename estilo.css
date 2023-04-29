@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.google{
+    padding: 5px;
+    width: 3px;
+    border: 2px solid black;
+    border-radius: 3%;
+}
+
+.contenedor{
+    display: flex;
+    text-align: center;
+}
+
+img{
+    justify-content: center;
+    text-align: center;
+    width: 300px;
+}
+
+div{
+    text-align: center;
+}
+
+.registro{
+    text-align: center;
+    background-color: white;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contenedorregistro{
+    margin: 0px auto;
+    justify-content: flex-start;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5%;
+    border: 2px solid black ;
+}
+
+.Redes{
+    display: flex;
+}
+
+.EmailMobileNumber{
+    display: flex;
+}
+
+.campoPassword{
+    display: flex;
+}
